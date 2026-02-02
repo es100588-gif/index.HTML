@@ -10,7 +10,13 @@ p{
 
 }
 
-p {fontfamily:pacifico;}
+p {
+    color: darkgreen;
+    font-size: 16px;
+    font-family: 'Times New Roman', serif;
+}
+
+
 
 
 
